@@ -1,0 +1,19 @@
+@import "normalize.css";
+
+body {
+  font-family: monospace;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.app-container {
+  margin: 0 auto;
+  max-width: 1200px;
+  width: 100%;
+  display: flex;
+  flex-flow: column;
+  flex: 1;
+}
