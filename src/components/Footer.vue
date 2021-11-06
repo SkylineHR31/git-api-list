@@ -24,6 +24,7 @@ export default {
   min-height: 50px;
   color: $font-header;
   display: flex;
+  background-color: $item-bcg;
 
   &-inner {
     display: flex;

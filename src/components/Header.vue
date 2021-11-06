@@ -29,6 +29,7 @@ export default {
   color: $font-header;
   margin-bottom: $space-xl;
   display: flex;
+  background-color: $item-bcg;
 
   &-inner {
     display: flex;
