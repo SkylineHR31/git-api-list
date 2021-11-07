@@ -17,3 +17,10 @@ a {
   flex-flow: column;
   flex: 1;
 }
+
+.app-layout {
+  display: flex;
+  width: 100%;
+  flex-flow: column;
+  min-height: 100vh;
+}

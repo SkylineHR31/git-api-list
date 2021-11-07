@@ -29,13 +29,6 @@ export default {
 @import "./styles/layout";
 @import "./styles/variables";
 
-.app-layout {
-  display: flex;
-  width: 100%;
-  flex-flow: column;
-  min-height: 100vh;
-}
-
 .content {
   flex: 1;
   padding-bottom: $space-xl;
